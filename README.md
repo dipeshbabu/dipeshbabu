@@ -4,10 +4,10 @@ I make use of AI/ML tools to fabricate awesome applications for awesome people.
 
 ## :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/DipeshBabu8)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-1ca0f1?style=flat&labelColor=1ca0f1&logo=kaggle&logoColor=white)](https://kaggle.com/dipesh8)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://linkedin.com/in/dipesh8/)
-[![Mail Badge](https://img.shields.io/badge/-E--mail-1ca0f1?style=flat&labelColor=1ca0f1&logo=protonmail&logoColor=white)](mailto:dipeshmahato@outlook.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/DipeshBabu8)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-1ca0f1?style=flat&labelColor=1ca0f1&logo=kaggle&logoColor=white)](https://kaggle.com/dipesh8)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://linkedin.com/in/dipesh8/)
+[![Mail](https://img.shields.io/badge/-E--mail-1ca0f1?style=flat&labelColor=1ca0f1&logo=protonmail&logoColor=white)](mailto:dipeshmahato@outlook.com)
 
 ## 🛠️ Languages & Frameworks
 
